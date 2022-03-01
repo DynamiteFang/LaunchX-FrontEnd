@@ -1,2 +1,2 @@
-#Proyecto Abogabot#
+*Proyecto Abogabot*
 Esta carpeta de repositorio contiene los requerimientos, wireframes, UI y UX del proyecto Abogabot.
